@@ -48,6 +48,7 @@ fn main() {
             "❌" => run_command("clear", args),
             "🗺" => run_command("pwd", args),
             "💀" => run_command("rm", args),
+            "💪" => run_command("curl", args),
             "📦" => run_command("cargo", args),
             "😭" | "help" => {
                 // implementation for help

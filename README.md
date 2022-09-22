@@ -26,6 +26,7 @@ cargo run
 | 💀    | `rm`    |
 | ❌    | `clear` |
 | 🗺     | `pwd`   |
+| 💪    | `curl`  |
 | 📦    | `cargo` |
 | 😭    | `help`  |
 
